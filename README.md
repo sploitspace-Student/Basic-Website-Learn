@@ -5,6 +5,6 @@ This is my progress in building a basic website with HTML, CSS, and JavaScript.
 
 ```bash
 
-git clone https://github.com
+git clone https://github.com/sploitspace-Student/Basic-Website-Learn.git
 
 ```
